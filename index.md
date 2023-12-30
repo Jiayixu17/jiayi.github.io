@@ -23,3 +23,15 @@ GPA: 91.27/100
 ### Relevant Coursework
 - Applied Statistics(95), Operations Research(93), Advanced Mathematics(Ⅰ91,Ⅱ92), Linear Algebra(98), Probability Theory and Mathematical Statistics(70)
 - Python Language Programming(99), C language Programming(91), Java Programming(94), Database Principle(96), Machine Learning and Data Mining(96), Data Structure(86)
+
+---
+
+### Awards
+College Students’ Innovative Entrepreneurial Training Plan Program (National) - Excellent Level (top 5%)              2022
+National Hot Chainers Inaugural University Blockchain App Design Competition (National) - 3rd Prize                2021        
+
+---
+
+### Skills
+- Data and Statistical Skills: Data Collection and Cleaning, Database Design and Management, Data Analysis and Visualization, Predictive Analytics, Statistical Modeling and Inference
+- Programming & Software: Python, R, SQL, Stata, Java, C, Tableau, Cypher, Lingo, Excel, Android Studio, LaTeX
