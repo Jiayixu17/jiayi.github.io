@@ -24,14 +24,13 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 
- [[Bachelor's thesis](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)]
+  [[Bachelor's thesis](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)]
   [[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]
 
 <br>
 
-**Tongji University** (Apr 2022 - Sept 2022)<br> 
-Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)
-<br>
+**Tongji University** (Apr 2022 - Sept 2022)
+Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)<br>
 **<em>Research on Factors of Sino-Japanese Reconciliation Based on Big Data Analysis</em>**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
