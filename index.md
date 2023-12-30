@@ -19,6 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 Bachelor of Management in Information Management and Information Systems (GPA: 91.27/100)
 
 <br>
+
 ---
   
 ## Relevant Coursework
