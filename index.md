@@ -27,8 +27,8 @@ GPA: 91.27/100
 ---
 
 ### Research Experience
-**China University of Geosciences - Center for International Cooperation in E-Business**(Mar 2021 - Present)      
-**Research Assistant|Advisor: Prof. Zhen Zhu**<br>
+**China University of Geosciences - Center for International Cooperation in E-Business**(Mar 2021 - Present)<br>      
+Research Assistant|Advisor: Prof. Zhen Zhu<br>
 
 **Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
@@ -46,7 +46,7 @@ GPA: 91.27/100
 <br>
 
 **Tongji University**(Apr 2022 - Sept 2022)<br> 
-**Research Intern | Advisor: Prof. Changrong Lu**
+Research Intern | Advisor: Prof. Changrong Lu
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
 - Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.
