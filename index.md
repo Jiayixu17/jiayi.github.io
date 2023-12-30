@@ -15,6 +15,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## EDUCATION
 
 **China University of Geosciences (CUG)**, Wuhan, China (Sept 2019 - July 2023）
+
 Bachelor of Management in Information Management and Information Systems (GPA: 91.27/100)
 
 <br>
