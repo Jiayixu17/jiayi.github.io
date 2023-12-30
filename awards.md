@@ -8,7 +8,8 @@ title: Research
 Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)
 <br>
 
-**<em>Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
+
+**<em>Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
@@ -20,7 +21,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 
 <br>
 
-**<em>Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
+**<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
@@ -30,6 +31,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 **Tongji University** (Apr 2022 - Sept 2022)<br> 
 Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)
 <br>
+
 
 **<em>Research on Factors of Sino-Japanese Reconciliation Based on Big Data Analysis</em>**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
