@@ -36,6 +36,7 @@ Project: Knowledge Graph Construction and Attribute Value Extraction for Large-s
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.    
 <br>
+
 Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
