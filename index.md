@@ -27,8 +27,8 @@ GPA: 91.27/100
 ---
 
 ### Research Experience
-##### China University of Geosciences - Center for International Cooperation in E-Business<br>         
-##### Mar 2021 - Present<br> 
+**China University of Geosciences - Center for International Cooperation in E-Business**<br>         
+**Mar 2021 - Present**<br> 
 **Research Assistant**<br>
 **Advisor: Prof. Zhen Zhu**<br>
 
