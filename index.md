@@ -30,7 +30,7 @@ GPA: 91.27/100
 **China University of Geosciences - Center for International Cooperation in E-Business**(Mar 2021 - Present)      
 Research Assistant|Advisor: Prof. Zhen Zhu<br>
 
-**Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products**      
+**<em>Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
@@ -38,7 +38,7 @@ Research Assistant|Advisor: Prof. Zhen Zhu<br>
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.    
 <br>
 
-**Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms**
+**<em>Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
