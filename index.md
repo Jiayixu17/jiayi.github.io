@@ -27,7 +27,7 @@ GPA: 91.27/100
 ---
 
 ### Research Experience
-**China University of Geosciences - Center for International Cooperation in E-Business**(Mar 2021 - Present)      
+**China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)      
 Research Assistant|Advisor: Prof. Zhen Zhu<br>
 
 **<em>Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
@@ -45,7 +45,7 @@ Research Assistant|Advisor: Prof. Zhen Zhu<br>
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 <br>
 
-**Tongji University**(Apr 2022 - Sept 2022)<br> 
+**Tongji University** (Apr 2022 - Sept 2022)<br> 
 Research Intern | Advisor: Prof. Changrong Lu
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
@@ -55,7 +55,7 @@ Research Intern | Advisor: Prof. Changrong Lu
 ---
 
 ### Internships
-**Didi Chuxing (Beijing) Co., Ltd.**(Sept 2022 - Dec 2022)<br>                                                        
+**Didi Chuxing (Beijing) Co., Ltd.** (Sept 2022 - Dec 2022)                                                        
 **Data Analyst Intern - Strategic Development Division**<br> 
 - Utilized SQL, Excel, and Tableau to collect, clean, analyze, and visualize driver and passenger data across 45 cities.
 - Performed Attribution Analysis for weekly data fluctuation and anomalies and presented analysis reports.
@@ -63,14 +63,14 @@ Research Intern | Advisor: Prof. Changrong Lu
 - Constructed virtual control groups (e.g., DID, PSM) to evaluate experiments conducted for all users by Python and R.
 <br>
 
-**PricewaterhouseCoopers (PwC) Acceleration Center**(June 2022 - Aug 2022)<br> 
+**PricewaterhouseCoopers (PwC) Acceleration Center** (June 2022 - Aug 2022)<br> 
 **Assistant Data Engineer Intern - P&T Digital**<br>                                           
 - Designed data models and maintained SQL Server databases to achieve business needs.
 - Contributed to improving a risk assessment algorithm by constructing the Bayesian Network.
 - Championed the Data Scientists team in achieving AI-driven automatic parsing tasks for PDF documents, including text data annotation and preprocessing.
 <br>
 
-**DF&P Strategy Consultants**(July 2021 - Oct 2021)<br>
+**DF&P Strategy Consultants** (July 2021 - Oct 2021)<br>
 **Strategy Consulting Intern**<br>
 - Conducted new product demand analysis for a music company, including collecting secondary data and unearthing user requirements by focusing on finance, educational resources, communication platforms, social culture, etc.
 - Built user profiles by user clustering according to the full lifecycle process of musicians from entry to exit.
