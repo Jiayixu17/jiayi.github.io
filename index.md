@@ -33,5 +33,5 @@ GPA: 91.27/100
 ---
 
 ### Skills
-- Data and Statistical Skills: Data Collection and Cleaning, Database Design and Management, Data Analysis and Visualization, Predictive Analytics, Statistical Modeling and Inference
-- Programming & Software: Python, R, SQL, Stata, Java, C, Tableau, Cypher, Lingo, Excel, Android Studio, LaTeX
+- **Data and Statistical Skills:** Data Collection and Cleaning, Database Design and Management, Data Analysis and Visualization, Predictive Analytics, Statistical Modeling and Inference
+- **Programming & Software:** Python, R, SQL, Stata, Java, C, Tableau, Cypher, Lingo, Excel, Android Studio, LaTeX
