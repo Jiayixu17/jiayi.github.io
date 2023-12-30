@@ -42,6 +42,7 @@ Project: Research on Product Homogeneity Characteristics and Performance of Comp
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
+  
 **Tongji University**(Apr 2022 - Sept 2022)
 **Research Intern | Advisor: Prof. Changrong Lu**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
