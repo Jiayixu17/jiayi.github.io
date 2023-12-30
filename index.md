@@ -12,15 +12,18 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
-## Academic Background
+## EDUCATION
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**China University of Geosciences (CUG)**, Wuhan, China (Sept 2019 - July 2023）
+- Bachelor of Management in Information Management and Information Systems (GPA: 91.27/100)
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+<br>
 
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+---
+  
+## Relevant Coursework
+- Applied Statistics(95), Operations Research(93), Advanced Mathematics(Ⅰ91,Ⅱ92), Linear Algebra(98), Probability Theory and Mathematical Statistics(70)
+- Python Language Programming(99), C language Programming(91), Java Programming(91), Database Principle(96), Machine Learning and Data Mining(96), Data Structure(86)
 
 <br>
 
