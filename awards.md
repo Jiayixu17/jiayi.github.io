@@ -24,7 +24,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
-
+[Bachelor's thesis](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)
 <br>
 
 **Tongji University** (Apr 2022 - Sept 2022)<br> 
