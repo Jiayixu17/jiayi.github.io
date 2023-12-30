@@ -14,9 +14,10 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
-<br>
+
 <em>Publication:<em/>**Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.
 <https://aisel.aisnet.org/whiceb2022/19>
+
 <br>
 
 **<em>Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
