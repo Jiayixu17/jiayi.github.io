@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Research
 ---
 ## Research Experience
-**China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)     
+**China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)<br>     
 Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
 **<em>Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
@@ -29,7 +29,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 
 <br>
 
-**Tongji University** (Apr 2022 - Sept 2022)
+**Tongji University** (Apr 2022 - Sept 2022)<br>
 Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)<br>
 **<em>Research on Factors of Sino-Japanese Reconciliation Based on Big Data Analysis</em>**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
