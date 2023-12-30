@@ -13,9 +13,10 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
-- Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.<br>
+- Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
+<br>
 
-**<em>  Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
+**<em>Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
