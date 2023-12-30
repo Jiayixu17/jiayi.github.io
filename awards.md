@@ -24,7 +24,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 
-[Bachelor's thesis: Research on Product Homogeneity Characteristics and Sales Trend Prediction of Complementaries in E-commerce Platforms](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)[[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]<br>
+[Bachelor's thesis: Research on Product Homogeneity Characteristics and Sales Trend Prediction of Complementaries in E-commerce Platforms](https://jiayixu17.github.io/file/Bachelor_thesis.pdf) [Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]<br>
 
 <br>
 
