@@ -27,8 +27,8 @@ GPA: 91.27/100
 ---
 
 ### Awards
-College Students’ Innovative Entrepreneurial Training Plan Program (National) - Excellent Level (top 5%)              2022
-National Hot Chainers Inaugural University Blockchain App Design Competition (National) - 3rd Prize                2021        
+- College Students’ Innovative Entrepreneurial Training Plan Program (National) - Excellent Level (top 5%) (2022)
+- National Hot Chainers Inaugural University Blockchain App Design Competition (National) - 3rd Prize (2021)
 
 ---
 
