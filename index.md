@@ -27,7 +27,7 @@ GPA: 91.27/100
 ---
 
 ### Research Experience
-#### **China University of Geosciences - Center for International Cooperation in E-Business**(Mar 2021 - Present)<br>         
+**China University of Geosciences - Center for International Cooperation in E-Business**(Mar 2021 - Present)<br>         
 **Research Assistant|Advisor: Prof. Zhen Zhu**<br>
 Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
@@ -36,14 +36,13 @@ Project: Knowledge Graph Construction and Attribute Value Extraction for Large-s
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.    
 <br>
-
 Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
-  
-#### **Tongji University**(Apr 2022 - Sept 2022)<br> 
+<br>
+**Tongji University**(Apr 2022 - Sept 2022)<br> 
 **Research Intern | Advisor: Prof. Changrong Lu**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
@@ -52,16 +51,22 @@ Project: Research on Product Homogeneity Characteristics and Performance of Comp
 
 ---
 
-## News and Updates
-
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### Internships
+**Didi Chuxing (Beijing) Co., Ltd.**(Sept 2022 - Dec 2022)<br>                                                        
+**Data Analyst Intern - Strategic Development Division**<br> 
+- Utilized SQL, Excel, and Tableau to collect, clean, analyze, and visualize driver and passenger data across 45 cities.
+- Performed Attribution Analysis for weekly data fluctuation and anomalies and presented analysis reports.
+- Involved in designing randomized controlled experiments (e.g., A/B tests, switchback experiments) and conducting evaluations of experimental effectiveness.
+- Constructed virtual control groups (e.g., DID, PSM) to evaluate experiments conducted for all users by Python and R.
+<br> 
+**PricewaterhouseCoopers (PwC) Acceleration Center**(June 2022 - Aug 2022)<br> 
+**Assistant Data Engineer Intern - P&T Digital**<br>                                           
+- Designed data models and maintained SQL Server databases to achieve business needs.
+- Contributed to improving a risk assessment algorithm by constructing the Bayesian Network.
+- Championed the Data Scientists team in achieving AI-driven automatic parsing tasks for PDF documents, including text data annotation and preprocessing.
+<br> 
+**DF&P Strategy Consultants**(July 2021 - Oct 2021)<br>
+**Strategy Consulting Intern**<br>
+- Conducted new product demand analysis for a music company, including collecting secondary data and unearthing user requirements by focusing on finance, educational resources, communication platforms, social culture, etc.
+- Built user profiles by user clustering according to the full lifecycle process of musicians from entry to exit.
+- Led a team for market positioning and competitive analysis by using SWOT and PEST analysis.
