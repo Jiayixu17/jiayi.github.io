@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+### About Me
 
 Here is **Jiayi Xu**.
 
@@ -12,17 +12,15 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
-#### EDUCATION
+### EDUCATION
 Sept 2019 - July 2023 <br>
 **China University of Geosciences (CUG)**, Wuhan, China <br>
 Bachelor of Management in Information Management and Information Systems <br>
 GPA: 91.27/100
 
-<br>
-
 ---
-  
-## Relevant Coursework
+
+### Relevant Coursework
 - Applied Statistics(95), Operations Research(93), Advanced Mathematics(Ⅰ91,Ⅱ92), Linear Algebra(98), Probability Theory and Mathematical Statistics(70)
 - Python Language Programming(99), C language Programming(91), Java Programming(94), Database Principle(96), Machine Learning and Data Mining(96), Data Structure(86)
 
