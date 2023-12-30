@@ -3,5 +3,6 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
-### My personal blog : https://jiayi-blog.vercel.app
+#### Please click here to see my full blogMy personal blog : 
+     https://jiayi-blog.vercel.app
 ---
