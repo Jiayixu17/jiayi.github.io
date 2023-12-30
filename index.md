@@ -28,9 +28,9 @@ GPA: 91.27/100
 
 ### Research Experience
 **China University of Geosciences - Center for International Cooperation in E-Business**<br>         
-**Mar 2021 - Present**<br> 
+**Mar 2021 - Present**<br>
 **Research Assistant**<br>
-**Advisor: Prof. Zhen Zhu**<br>
+**Advisor: Prof. Zhen Zhu**
 
 - Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products      
   - Used Python to crawl and preprocess product textual data from Ctrip.com.
