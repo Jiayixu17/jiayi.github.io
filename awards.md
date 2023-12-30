@@ -5,8 +5,7 @@ title: Research
 ---
 ## Research Experience
 **China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)     
-Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)
-<br>
+Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
 **<em>Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
@@ -26,9 +25,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 
   [[Bachelor's thesis](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)]
-  [[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]
-  
-<br>
+  [[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]<br>
 
 **Tongji University** (Apr 2022 - Sept 2022)<br> 
 Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)
