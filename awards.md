@@ -22,7 +22,6 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 <br>
 
----
 **Tongji University** (Apr 2022 - Sept 2022)<br> 
 Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)
 <br>
