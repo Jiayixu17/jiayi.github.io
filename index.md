@@ -12,7 +12,7 @@ My past experiences have taught me: to try everything! I enjoy experiencing dive
 
 ---
 
-### EDUCATION
+### Education
 Sept 2019 - July 2023 <br>
 **China University of Geosciences (CUG)**, Wuhan, China <br>
 Bachelor of Management in Information Management and Information Systems <br>
@@ -26,15 +26,24 @@ GPA: 91.27/100
 
 ---
 
-### RESEARCH EXPERIENCE
+### Research Experience
+##### China University of Geosciences - Center for International Cooperation in E-Business<br>         
+##### Mar 2021 - Present<br> 
+**Research Assistant**<br>
+**Advisor: Prof. Zhen Zhu**<br>
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- Project: Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products      
+  - Used Python to crawl and preprocess product textual data from Ctrip.com.
+  - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
+  - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
+  - Imported entities and relations into a Neo4j database for graph visualization.
+  - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.    
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Project: Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms       
+  - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
+  - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
+  - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
+  - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 
 <br>
 
