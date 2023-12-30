@@ -19,12 +19,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 Bachelor of Management in Information Management and Information Systems (GPA: 91.27/100)
 
 <br>
-
 ---
   
 ## Relevant Coursework
 - Applied Statistics(95), Operations Research(93), Advanced Mathematics(Ⅰ91,Ⅱ92), Linear Algebra(98), Probability Theory and Mathematical Statistics(70)
-- Python Language Programming(99), C language Programming(91), Java Programming(91), Database Principle(96), Machine Learning and Data Mining(96), Data Structure(86)
+- Python Language Programming(99), C language Programming(91), Java Programming(94), Database Principle(96), Machine Learning and Data Mining(96), Data Structure(86)
 
 <br>
 
