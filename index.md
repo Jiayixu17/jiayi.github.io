@@ -4,13 +4,13 @@ layout: page
 
 ### About Me
 
-Here is **Jiayi Xu**.
-
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
-
+Here is **Jiayi Xu**. <br>
+I'm particularly interested in all things related to data and passionate about using data to solve business and management problems, welcome to connect with me! <br>
+My past experiences have taught me: to try everything! I enjoy experiencing diversity and finding myself in the process. 
+**No passion, no life!**
 <br>
+
+---
 
 ### EDUCATION
 Sept 2019 - July 2023 <br>
