@@ -15,7 +15,7 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
 
-<em>Publication:<em/>**Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.
+<em>Publication:<em/> **Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.
 <https://aisel.aisnet.org/whiceb2022/19>
 
 <br>
