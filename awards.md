@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Research
 ---
 ## Research Experience
-**China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)
+**China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)<br>
 Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
 **<em>Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
