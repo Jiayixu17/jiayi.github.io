@@ -42,8 +42,8 @@ links:
     url: /awards/
   - title: Internships
     url: /notes/
-  #- title: Publications
-  # url: /publications/
+  - title: Portfolio
+    url: /publications/
   # - title: Teams
   #  url: /teams/
   #- title: Hobbies
