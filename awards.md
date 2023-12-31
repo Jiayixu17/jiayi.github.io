@@ -5,7 +5,7 @@ title: Research
 ---
 ## Research Experience
 **China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)<br>
-Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
+Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
 **<em>Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
@@ -13,10 +13,8 @@ Research Assistant|Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
 
-<em>Publication:<em/> **Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.
-<https://aisel.aisnet.org/whiceb2022/19>
-
-<br>
+<em>Publication:**Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.<em/>
+<https://aisel.aisnet.org/whiceb2022/19><br>
 
 **<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
