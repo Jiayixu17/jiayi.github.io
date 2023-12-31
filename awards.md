@@ -12,19 +12,13 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
-
-<em>Publication:**Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.<em/>
-<https://aisel.aisnet.org/whiceb2022/19><br>
+<br>
 
 **<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
 - Measured the homogeneity level of products between platform owner and complementors by constructing graph networks and calculating graph node similarity.
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
-
-[Bachelor's thesis: Research on Product Homogeneity Characteristics and Sales Trend Prediction of Complementaries in E-commerce Platforms](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)  
-[[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]<br>
-
 <br>
 
 **Tongji University** (Apr 2022 - Sept 2022)<br>
@@ -34,4 +28,9 @@ Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drch
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
 - Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.
 <br>
+---
+<em>Publication:**Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.<em/>
+<https://aisel.aisnet.org/whiceb2022/19><br>
 
+[Bachelor's thesis: Research on Product Homogeneity Characteristics and Sales Trend Prediction of Complementaries in E-commerce Platforms](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)  
+[[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]<br>
