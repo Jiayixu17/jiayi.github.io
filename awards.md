@@ -6,7 +6,7 @@ title: Research
 ## Research Experience
 ### **China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)<br>
 #### Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
-**<em>Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products</em>**      
+**<em>Research on the Evolutionary Characteristics of Large-Scale Tourism Service Product Innovation Based on Knowledge Graph</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
