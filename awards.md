@@ -5,7 +5,10 @@ title: Research
 ---
 ## Research Experience
 ### **China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)<br>
-Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)<br>
+Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)
+
+<br>
+
 **<em>Research on the Evolutionary Characteristics of Large-Scale Tourism Service Product Innovation Based on Knowledge Graph</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
@@ -19,10 +22,14 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
+- 
 <br>
-<br>
+
 ### **Tongji University** (Apr 2022 - Sept 2022)<br>
-Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)<br>
+Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)
+
+<br>
+
 **<em>Research on Factors of Sino-Japanese Reconciliation Based on Big Data Analysis</em>**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
