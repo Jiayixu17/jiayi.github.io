@@ -39,7 +39,6 @@ Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drch
 ---
 
 ### Publication
-- **Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.
-<https://aisel.aisnet.org/whiceb2022/19><br>
+- **Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.<https://aisel.aisnet.org/whiceb2022/19><br>
 
 - Bachelor's thesis: Research on Product Homogeneity Characteristics and Sales Trend Prediction of Complementaries in E-commerce Platforms. (top 5% in thesis defense) [[PDF](https://jiayixu17.github.io/file/Bachelor_thesis.pdf)]  [[Thesis Defense PowerPoint](https://jiayixu17.github.io/file/Presentation.pdf)]<br>
