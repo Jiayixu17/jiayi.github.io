@@ -9,7 +9,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 
 <br>
 
-**<em>Research on the Evolutionary Characteristics of Large-Scale Tourism Service Product Innovation Based on Knowledge Graph</em>**      
+**<em>Research on the Evolutionary Characteristics of Tourism Product Innovation Based on Knowledge Graph</em>**      
 - Used Python to crawl and preprocess product textual data from Ctrip.com.
 - Constructed a domain ontology for tourism products, incorporating 9 feature dimensions.
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
