@@ -28,6 +28,7 @@ Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drch
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
 - Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.
 <br>
+
 ---
 
 - <em>Publication:**Xu, Jiayi**; Zhang, Shuang; Zhu, Zhen; Zou, Lincan; and Yang, Mengting, "Exploratory Research on Knowledge Graph Construction and Attribute Value Extraction for Large-scale Textual Data of Tourism Products" (2022). WHICEB 2022 Proceedings.19.<em/>
