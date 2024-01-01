@@ -15,7 +15,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity. <br>
- <img src="https://jiayixu17.github.io/file/map3.png" width = "500" height = "250" alt="技术路线" align=center />
+ <img src="https://jiayixu17.github.io/file/map3.png" width = "700" height = "350" alt="技术路线" align=center />
 <br>
 
 **<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
@@ -23,7 +23,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables. <br>
- <img src="https://jiayixu17.github.io/file/map4.png" width = "500" height = "375" alt="技术路线" align=center />
+ <img src="https://jiayixu17.github.io/file/map4.png" width = "600" height = "450" alt="技术路线" align=center />
 
 <br>
 
