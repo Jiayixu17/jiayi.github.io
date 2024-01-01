@@ -15,7 +15,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
- <img src="https://jiayixu17.github.io/file/map.png" width = "400" height = "300" alt="技术路线" align=center />
+ <img src="https://jiayixu17.github.io/file/map1.png" width = "400" height = "300" alt="技术路线" align=center />
 <br>
 
 **<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
