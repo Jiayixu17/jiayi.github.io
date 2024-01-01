@@ -15,7 +15,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity. <br>
- <img src="https://jiayixu17.github.io/file/map3.png" width = "700" height = "350" alt="技术路线" align=center />
+ <img src="https://jiayixu17.github.io/file/map3.png" width = "600" height = "300" alt="技术路线" align=center />
  
 <br>
 
