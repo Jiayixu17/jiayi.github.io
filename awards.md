@@ -15,8 +15,9 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Extracted tourism product features using BERT-BiLSTM-CRF and merged entities with highly semantic similarity.
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
+</div>
 <img src="/file/map.JPG">
-  
+</div>
 <br>
 
 **<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
@@ -24,7 +25,9 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Introduced 42 additional feature variables for the complementors and trained the sales forecasting model using XGBoost.
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
+</div>
 <img src="/file/map2.JPG">
+</div>
 <br>
 
 ### **Tongji University** (Apr 2022 - Sept 2022)<br>
