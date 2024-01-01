@@ -10,12 +10,14 @@ title: Publications
 **Machine Learning and Data Mining Course Assignment** (personal work)<br>
 - Tasks include exploratory analysis using different data and machine learning models (KNN/Logistics Regression/SVC/Decision Tree/SVR/Random Forest, etc.) for prediction, parameter tuning, etc.
 - The file includes an introduction to the dataset, code, description of the parameter tuning process, and supplementary information.<br>
+ <img src="https://jiayixu17.github.io/file/p5.png" align=center /> <br>
 [PDF](https://jiayixu17.github.io/file/ML.pdf)
 
 <br>
 
 **Overview of Named Entity Recognition Technology** (personal work)<br>
 - As a summary of the personal learning record, this overview summarizes the historical development process, technical implementation steps, and the future development of named entity recognition technology.<br>
+ <img src="https://jiayixu17.github.io/file/p4.png" align=center /> <br>
 [PDF](https://jiayixu17.github.io/file/NER.pdf)
 
 <br>
