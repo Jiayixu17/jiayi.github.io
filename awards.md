@@ -16,6 +16,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Imported entities and relations into a Neo4j database for graph visualization.
 - Obtained product similarity through link prediction algorithms (Adamic-Adar) and modified cosine similarity.
 ![](https://jiayixu17.github.io/file/map.png)
+ <img src="https://jiayixu17.github.io/file/map.png" width = "300" height = "200" alt="图片名称" align=center />
 <br>
 
 **<em>Research on Product Homogeneity Characteristics and Performance of Complementors in E-commerce Platforms</em>**
