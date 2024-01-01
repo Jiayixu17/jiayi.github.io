@@ -24,7 +24,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 - Generated parameter interpretation by SHAP feature importance derived from the XGBoost model.
 - Devised the plan to use causal inference methods to facilitate the interpretation of treatment variables.
 </div>
-<img src="/file/map2.JPG">
+ <img src="https://jiayixu17.github.io/file/map2.png" width = "800" height = "600" alt="技术路线" align=center />
 </div>
 <br>
 
