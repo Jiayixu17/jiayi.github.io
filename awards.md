@@ -36,7 +36,8 @@ Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drch
 **<em>Research on Factors of Sino-Japanese Reconciliation Based on Big Data Analysis</em>**
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
-- Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.
+- Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.<br>
+ <img src="https://jiayixu17.github.io/images/WorkFlow.png" width = "600" height = "200" alt="技术路线" align=center /> <br>
 [What is Term Set Expansion?](https://jiayixu17.github.io/file/TermSetExpansion.pdf)
 ---
 
