@@ -37,7 +37,7 @@ Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drch
 - Compiled journal articles related to geopolitical risks in the past 20 years based on TF-IDF and counted the distribution of the number of articles by year.
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
 - Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.<br>
- <img src="https://jiayixu17.github.io/images/WorkFlow.png" width = "700" height = "210" alt="技术路线" align=center /> <br>
+ <img src="https://jiayixu17.github.io/images/WorkFlow.png" width = "678" height = "200" alt="技术路线" align=center /> <br>
 [What is Term Set Expansion?(PDF)](https://jiayixu17.github.io/file/TermSetExpansion.pdf)
 ---
 
