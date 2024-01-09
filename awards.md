@@ -38,7 +38,8 @@ Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drch
 - Measured the similarity between datasets using Pearson's correlation coefficient, cosine similarity, and KL divergence.
 - Implemented term set expansion, including training word embedding mode (Word2vec), manual annotations, and building classification models using Random Forest.<br>
  <img src="https://jiayixu17.github.io/images/WorkFlow.png" width = "678" height = "200" alt="技术路线" align=center /> <br>
-[What is Term Set Expansion?(PDF)](https://jiayixu17.github.io/file/TermSetExpansion.pdf)
+[What is Term Set Expansion? (PDF)](https://jiayixu17.github.io/file/TermSetExpansion.pdf)
+
 ---
 
 ### Publication
