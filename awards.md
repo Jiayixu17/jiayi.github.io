@@ -28,6 +28,10 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 
 <br>
 
+These two projects originated from the National Natural Science Foundation of China (NSFC) project **"Dynamic Adaptation Mechanisms between Platforms and Enterprises in E-commerce Ecosystems: A Study of Complex Adaptation Perspectives"**. In addition, I am also involved in the **"Policy Intelligence"** project during February and June 2023 in this lab, which aims to explore the relationship between national policies and the responses of listed companies using text mining and econometrics.
+
+<br>
+
 ### **Tongji University** (Apr 2022 - Sept 2022)<br>
 Research Intern | Advisor: [Prof. Changrong Lu](https://www.linkedin.com/in/drchangronglu/?locale=en_US)
 
