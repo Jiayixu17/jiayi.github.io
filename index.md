@@ -19,3 +19,12 @@ Based on interdisciplinary, I have grown to appreciate the strengths of diverse 
 Bachelor of Management in Information Management and Information Systems (GPA: 91.27/100)<br>
 <br>
 
+---
+
+#### Miscellaneous
+**Hobbies:**
+- Guitar
+- Pipa （A traditional Chinese musical instrument, often referred to as the Chinese lute）
+- Taekwondo（Blue Belt)
+- Cooking
+- Do you believe it? My special ability is that I can talk to animals.(:D)
