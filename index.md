@@ -26,5 +26,6 @@ Bachelor of Management in Information Management and Information Systems (GPA: 9
 - Guitar
 - Pipa （A traditional Chinese musical instrument, often referred to as the Chinese lute）
 - Taekwondo（Blue Belt)
-- Cooking
+- A hidden chef around you
+- A coffee aficionado (I like the light baked beans with fruit flavor)
 - Do you believe it? My special ability is that I can talk to animals.(:D) (In fact, I know a lot about the behavior of many animals and am passionate about trying to communicate with them)
