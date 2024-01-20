@@ -4,6 +4,9 @@ permalink: /awards/index.html
 title: Research
 ---
 ## Research Experience
+
+_Participating in scientific research was a major way for me to learn new things during my undergraduate years, which challenged me and motivated me to conquer it!_
+
 ### **China University of Geosciences - Center for International Cooperation in E-Business** (Mar 2021 - Present)<br>
 Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/zh_CN/index.htm)
 
@@ -28,7 +31,7 @@ Research Assistant | Advisor: [Prof. Zhen Zhu](https://grzy.cug.edu.cn/zhuzhen/z
 
 <br>
 
-These two projects originated from the National Natural Science Foundation of China (NSFC) project **"Dynamic Adaptation Mechanisms between Platforms and Enterprises in E-commerce Ecosystems: A Study of Complex Adaptation Perspectives"**. In addition, I am also involved in the **"Policy Intelligence"** project during February and June 2023 in this lab, which aims to explore the relationship between national policies and the responses of listed companies using text mining and econometrics.
+These two projects originated from the National Natural Science Foundation of China (NSFC) project **"Dynamic Adaptation Mechanisms between Platforms and Enterprises in E-commerce Ecosystems: A Study of Complex Adaptation Perspectives"**. In addition, I am also involved in the **"Policy Intelligence"** project during February and May 2023 in this lab, which aims to explore the relationship between national policies and the responses of listed companies using text mining and econometrics.
 
 <br>
 
